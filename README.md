@@ -21,4 +21,4 @@ python app/main.pyを実行（ゲームをプレイ）
 深度推定にはIntelのMiDaSモデルを使用  
 
 # アセット
-Atmoph公式サイトのPreview画像や動画、効果音ラボのSEを拝借している。
+公式HPのPreview画像や動画、効果音ラボのSEを拝借している。
