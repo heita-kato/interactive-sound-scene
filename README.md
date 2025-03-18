@@ -9,7 +9,7 @@ assetsのimageの中に風景の画像を保存する
 assetsのsceneの中に風景の動画を保存する  
 assetsのsoundの中に風景の動画から音のみを抽出したものを保存する  
 
-（それぞれのコード中の該当部分をその画像パスに変更する）  
+（それぞれのコード中の該当部分をそのアセットパスに変更する）  
 python model/semantic_segmentation.py　を実行（segmentation.jsonに領域情報が保存される）  
 python model/estimate_depth.py　を実行（depth_data.jsonに深度情報が保存される）  
 
