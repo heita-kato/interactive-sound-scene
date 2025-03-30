@@ -24,5 +24,5 @@ python app/main.pyを実行（ゲームをプレイ）
 領域分類にはNvidiaのSegformerモデルを使用  
 深度推定にはIntelのMiDaSモデルを使用  
 
-# assets
+# Assets
 公式HPで公開されているPreview画像や動画、および効果音ラボのSEを拝借している。
