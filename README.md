@@ -8,6 +8,8 @@
 
 https://github.com/user-attachments/assets/1f551945-604e-4d02-8c46-811221f08ae1
 
+![Figure](https://github.com/user-attachments/assets/0965ccdd-30c0-4077-a837-3a91312a4dbd)
+
 # Process
 assetsのimageの中に風景の画像を保存する  
 assetsのsceneの中に風景の動画を保存する  
